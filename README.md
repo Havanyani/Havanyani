@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Havanyani
-- 👀 I’m a beginner interested in JavaScript and the React Library with the intention at first to create a specific business planning app that I drafted in Access VBA.
+- 👀 Since ChatGPT burst onto the scene I have been trying to keep up with developments while incubating various app ideas, including business planning, mobile insurance, waste reycling rewards, and media library management.
 - 📫 I am reachable at pndhlau@gmail.com
 
 <!---
